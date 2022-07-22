@@ -1,6 +1,6 @@
 # Microsoft365.com/setup – Lets Get Started With Microsoft 365 Setup
 
-[![Microsoft365.com/setup](get-started.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](get-started.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
 
 
 Get Microsoft 365 setup by visiting [Microsoft365.com/setup](https://github.com/365c0msetup/microsoft365comsetup/). Sign in to Microsoft account, enter the product key and get apps quickly. Microsoft 365 is the best way to get all the apps of Office. In case you are trying to log in at Microsoft365.com/setup, you can use the other accounts like OneDrive, Outlook.com, Skype, or Xbox Live (if you already are using any of these services). Download & use [Microsoft365.com/setup](https://github.com/365c0msetup/microsoft365comsetup/) wizard using microsoft365.com/setup site, follow instructions and install apps.
